@@ -9,7 +9,7 @@
    • Developed and fine-tuned a decoder-only architecture Large Language Model (LLM) using GPT-2, leveraging the InsuranceQA dataset to create a chatbot that provides clear and accessible information to users about insurance policies. Implemented data augmentation techniques, including paraphrasing questions using the Llama2 API, to bolster dataset robustness and elevate model generalization.<br>
    • Achieved a Test set Perplexity score of 3.52 through meticulous hyperparameter tuning and model optimization, including the use of the AdaFactor optimizer, reduce lr on plateau scheduler, weight decay, and other training arguments during testing to ensure the best possible model performance. Successfully integrated the fine-tuned GPT-2 model with a user-friendly web interface using Flask and Streamlit.
 
-   ![Repository 1](https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif){ width=400px height=300px }
+   <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="400" height="300">
 
 ## 2. [Repository Name 2](link-to-repository-2)
    Description of Repository 2.
