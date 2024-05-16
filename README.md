@@ -1,7 +1,7 @@
 <!-- Header with Rotating Logo -->
 <div align="center">
     <img src="https://example.com/animated-logo.gif" alt="Rotating Logo" width="200">
-    <h1 style="font-size: 36px;">Welcome to My GitHub Profile!</h1>
+    <h3 style="font-size: 36px;">Welcome to My GitHub Profile!</h3>
 </div>
 
 <!-- Pinned Repositories -->
