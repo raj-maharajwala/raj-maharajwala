@@ -7,7 +7,7 @@
 <!-- Pinned Repositories -->
 ## 1. [Insurance Chatbot | Fine-tuning GPT2, Llama2, Tokenizer, Embedding, Optimization, Flask, Streamlit](https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2)
 
-   <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="500">
+   <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="600">
 
 ## 2. [Repository Name 2](link-to-repository-2)
    Description of Repository 2.
