@@ -34,7 +34,8 @@
    This Biomedical data set was built by Dr. Henrique da Mota during a medical residenceperiod in Lyon, France. Each patient in the data set is represented in the data setby six biomechanical attributes derived from the shape and orientation of the pelvis and lumbar spine.
 
 ## 7. [Super-Store-Sales-Dashboard](https://github.com/raj-maharajwala/Super-Store-Sales-Dashboard)
-   ![image](https://github.com/raj-maharajwala/raj-maharajwala/assets/95955903/650887b5-12cf-4106-9a24-a4838083a780)
+   ![image]()
+   <img src="https://github.com/raj-maharajwala/raj-maharajwala/assets/95955903/650887b5-12cf-4106-9a24-a4838083a780" alt="Repository 7" width="600">
 
 ## 8. [Repository Name 8](link-to-repository-8)
    Description of Repository 8.
