@@ -15,7 +15,7 @@
 
    ![Repository 2](repository-2-image.jpg)
 
-## 3. [Face Matching Web Application with Bollywood Celebrities | VGG16, RESNET50, Keras Tuner](https://github.com/raj-maharajwala/Celebrities-Face-Matching-Web-Application)
+## 3. [Face Matching Web Application with Bollywood Celebrities | VGG16, RESNET50, CNN](https://github.com/raj-maharajwala/Celebrities-Face-Matching-Web-Application)
    • Leveraged the VGG16, and RESNET50 Model Transfer Learning, to extract key facial attributes from images. Performed Data Augmentation includes resize, zoom, contrast in training set. Images were then sent to VGG Model, converted into a 2D array with 2048 attributes in a vector.<br>
 • Devised a user-friendly Streamlit web portal matched preprocessed images with best match from list of feature vector on applying cosine similarity. Also employed Keras tuner to identify best optimizer (AdamW) and other parameters to accelerate efficient image matching.
 
