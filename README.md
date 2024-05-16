@@ -2,7 +2,6 @@
 <div align="center">
     <img src="https://example.com/animated-logo.gif" alt="Rotating Logo" width="200">
     <h1 style="font-size: 36px;">Welcome to My GitHub Profile!</h1>
-    <p style="font-size: 18px;">Here are my top 8 Java repositories:</p>
 </div>
 
 <!-- Pinned Repositories -->
