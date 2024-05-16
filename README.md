@@ -21,12 +21,12 @@
    • Leveraged the VGG16, and RESNET50 Model Transfer Learning, to extract key facial attributes from images. Performed Data Augmentation includes resize, zoom, contrast in training set. Images were then sent to VGG Model, converted into a 2D array with 2048 attributes in a vector.<br>
 • Devised a user-friendly Streamlit web portal matched preprocessed images with best match from list of feature vector on applying cosine similarity. Also employed Keras tuner to identify best optimizer (AdamW) and other parameters to accelerate efficient image matching.
 
-   ![Repository 3](repository-3-image.jpg)
+   <!-- Pinned Repositories  ![Repository 3](repository-3-image.jpg) -->
 
-## 4. [Repository Name 4](link-to-repository-4)
-   Description of Repository 4.
+## 4. [Heart_Attack_Prediction_ML_Models](https://github.com/raj-maharajwala/Heart_Attack_Prediction_ML_Models)
 
-   ![Repository 4](repository-4-image.jpg)
+   ![image](https://github.com/raj-maharajwala/raj-maharajwala/assets/95955903/8da84a70-c4b0-4842-86d9-81f7261bdc3d)
+
 
 ## 5. [Repository Name 5](link-to-repository-5)
    Description of Repository 5.
