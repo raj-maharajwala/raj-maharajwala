@@ -8,7 +8,7 @@
 <!-- Pinned Repositories -->
 ## 1. [Insurance Chatbot | Fine-tuning GPT2, Llama2, Tokenizer, Embedding, Optimization](https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2)
 
-   <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="600">
+   <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="700">
 
 ## 2. [Credit Card Fraud Detection | LR, Decision Trees, Random Forest, GBM, and XGBoost](https://github.com/raj-maharajwala/Credit-Card-Fraud-Detection)
    • Conducted comprehensive data exploration of transaction data, identifying multi-swipe, and reversed duplicate transactions. Handled missing values, applied categorical feature encoding, normalization, and addressed data imbalance through bootstrapped iterative undersampling. <br>
