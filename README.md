@@ -21,30 +21,21 @@
    • Leveraged the VGG16, and RESNET50 Model Transfer Learning, to extract key facial attributes from images. Performed Data Augmentation includes resize, zoom, contrast in training set. Images were then sent to VGG Model, converted into a 2D array with 2048 attributes in a vector.<br>
 • Devised a user-friendly Streamlit web portal matched preprocessed images with best match from list of feature vector on applying cosine similarity. Also employed Keras tuner to identify best optimizer (AdamW) and other parameters to accelerate efficient image matching.
 
-   <!-- Pinned Repositories  ![Repository 3](repository-3-image.jpg) -->
-
 ## 4. [Heart_Attack_Prediction_ML_Models](https://github.com/raj-maharajwala/Heart_Attack_Prediction_ML_Models)
 
    ![image](https://github.com/raj-maharajwala/raj-maharajwala/assets/95955903/8da84a70-c4b0-4842-86d9-81f7261bdc3d)
 
 
-## 5. [Repository Name 5](link-to-repository-5)
-   Description of Repository 5.
+## 5. [Transfer_Learning_Video_Classification_ResNet_VGG_EfficientNetB0](https://github.com/raj-maharajwala/Transfer_Learning_Video_Classification_ResNet_VGG_EfficientNetB0)
+  In this Transfer Learning is performed by using models ResNet50, EfficientNetB0, and VGG16 for Video Classification and Frames Image Classification
 
-   ![Repository 5](repository-5-image.jpg)
 
-## 6. [Repository Name 6](link-to-repository-6)
-   Description of Repository 6.
+## 6. [KNN-Variants-on-Vertebral-Column-Data-Set](https://github.com/raj-maharajwala/KNN-Variants-on-Vertebral-Column-Data-Set)
+   This Biomedical data set was built by Dr. Henrique da Mota during a medical residenceperiod in Lyon, France. Each patient in the data set is represented in the data setby six biomechanical attributes derived from the shape and orientation of the pelvis and lumbar spine.
 
-   ![Repository 6](repository-6-image.jpg)
-
-## 7. [Repository Name 7](link-to-repository-7)
-   Description of Repository 7.
-
-   ![Repository 7](repository-7-image.jpg)
+## 7. [Super-Store-Sales-Dashboard](https://github.com/raj-maharajwala/Super-Store-Sales-Dashboard)
+   ![image](https://github.com/raj-maharajwala/raj-maharajwala/assets/95955903/650887b5-12cf-4106-9a24-a4838083a780)
 
 ## 8. [Repository Name 8](link-to-repository-8)
    Description of Repository 8.
-
-   ![Repository 8](repository-8-image.jpg)
 
