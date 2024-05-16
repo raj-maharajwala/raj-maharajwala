@@ -36,6 +36,8 @@
 ## 7. [Super-Store-Sales-Dashboard](https://github.com/raj-maharajwala/Super-Store-Sales-Dashboard)
    ![image]()
    <img src="https://github.com/raj-maharajwala/raj-maharajwala/assets/95955903/650887b5-12cf-4106-9a24-a4838083a780" alt="Repository 7" width="600">
+   ![image](https://github.com/raj-maharajwala/raj-maharajwala/assets/95955903/3b1ddd2c-8ef6-4b86-aaa5-d572db8b0d18)
+
 
 ## 8. [Repository Name 8](link-to-repository-8)
    Description of Repository 8.
