@@ -1,7 +1,7 @@
 <!-- Header with Rotating Logo -->
 <div align="center">
     <img src="https://example.com/animated-logo.gif" alt="Rotating Logo" width="200">
-    <h3 style="font-size: 36px;">Welcome to My GitHub Profile!</h3>
+    <h2 style="font-size: 36px;">Welcome to My GitHub Profile!</h2>
 </div>
 
 <!-- Pinned Repositories -->
@@ -9,7 +9,7 @@
    • Developed and fine-tuned a decoder-only architecture Large Language Model (LLM) using GPT-2, leveraging the InsuranceQA dataset to create a chatbot that provides clear and accessible information to users about insurance policies. Implemented data augmentation techniques, including paraphrasing questions using the Llama2 API, to bolster dataset robustness and elevate model generalization.<br>
    • Achieved a Test set Perplexity score of 3.52 through meticulous hyperparameter tuning and model optimization, including the use of the AdaFactor optimizer, reduce lr on plateau scheduler, weight decay, and other training arguments during testing to ensure the best possible model performance. Successfully integrated the fine-tuned GPT-2 model with a user-friendly web interface using Flask and Streamlit.
 
-   <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="400" height="300">
+   <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="800" height="500">
 
 ## 2. [Repository Name 2](link-to-repository-2)
    Description of Repository 2.
