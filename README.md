@@ -1,8 +1,9 @@
-<!-- Header with Rotating Logo -->
+<!-- Header Logo 
 <div align="center">
     <img src="https://example.com/animated-logo.gif" alt="Rotating Logo" width="200">
     <h3 style="font-size: 36px;">Welcome to My GitHub Profile!</h3>
 </div>
+-->
 
 <!-- Pinned Repositories -->
 ## 1. [Insurance Chatbot | Fine-tuning GPT2, Llama2, Tokenizer, Embedding, Optimization](https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2)
