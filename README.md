@@ -1,7 +1,7 @@
 <!-- Header with Rotating Logo -->
 <div align="center">
     <img src="https://example.com/animated-logo.gif" alt="Rotating Logo" width="200">
-    <h2 style="font-size: 36px;">Welcome to My GitHub Profile!</h2>
+    <h3 style="font-size: 36px;">Welcome to My GitHub Profile!</h3>
 </div>
 
 <!-- Pinned Repositories -->
@@ -9,13 +9,15 @@
 
    <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="600">
 
-## 2. [Repository Name 2](link-to-repository-2)
-   Description of Repository 2.
+## 2. [Credit Card Fraud Detection | LR, Decision Trees, Random Forest, GBM, and XGBoost](https://github.com/raj-maharajwala/Credit-Card-Fraud-Detection)
+   • Conducted comprehensive data exploration of transaction data, identifying multi-swipe, and reversed duplicate transactions. Handled missing values, applied categorical feature encoding, normalization, and addressed data imbalance through bootstrapped iterative undersampling. <br>
+   • Implemented hyperparameter tuning, utilizing GridSearchCV, and RandomizedSearchCV, across 5 ML models with iterative undersampling. Evaluated models based on Recall, AUC, F-Beta, and F1 Scores, out of this Gradient Boosting excelled with 0.91 F-Beta Score.
 
    ![Repository 2](repository-2-image.jpg)
 
-## 3. [Repository Name 3](link-to-repository-3)
-   Description of Repository 3.
+## 3. [Face Matching Web Application with Bollywood Celebrities | VGG16, RESNET50, Keras Tuner](https://github.com/raj-maharajwala/Celebrities-Face-Matching-Web-Application)
+   • Leveraged the VGG16, and RESNET50 Model Transfer Learning, to extract key facial attributes from images. Performed Data Augmentation includes resize, zoom, contrast in training set. Images were then sent to VGG Model, converted into a 2D array with 2048 attributes in a vector.<br>
+• Devised a user-friendly Streamlit web portal matched preprocessed images with best match from list of feature vector on applying cosine similarity. Also employed Keras tuner to identify best optimizer (AdamW) and other parameters to accelerate efficient image matching.
 
    ![Repository 3](repository-3-image.jpg)
 
