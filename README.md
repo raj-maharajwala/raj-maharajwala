@@ -6,7 +6,7 @@
 -->
 
 <!-- Pinned Repositories -->
-## 1. [Insurance Chatbot | Fine-tuning Llama-3, GPT2, Llama2, Tokenizer, Embedding, Optimization](https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2)
+## 1. [Insurance Chatbot | Fine-tuning Llama-3, GPT2, Llama2, Optimization](https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2)
 
    <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="700">
 
