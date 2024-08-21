@@ -9,6 +9,7 @@
 ## 1. [Insurance Chatbot | Fine-tuning Llama-3, GPT2, Llama2, Optimization](https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2)
     
    <img width="200" alt="image" src="https://github.com/user-attachments/assets/88584c1d-a616-45dc-af4f-242a05ee3c0f">
+   <a href="https://huggingface.co/Raj-Maharajwala/OpenInsuranceLLM-Llama3-8B-GGUF" target="_blank"><img width="200" alt="image" src="https://github.com/user-attachments/assets/88584c1d-a616-45dc-af4f-242a05ee3c0f"></a>
    <img width="484" alt="image" src="https://github.com/user-attachments/assets/cb1aa516-59bf-4fc8-abd2-af474a53d580">
    <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="684">
 
