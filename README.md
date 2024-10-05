@@ -13,9 +13,8 @@
    <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="684">
 
 ## 2. [Credit Card Fraud Detection | LR, Decision Trees, Random Forest, GBM, and XGBoost](https://github.com/raj-maharajwala/mlops-credit-card-fraud-detection-end-to-end)
-   • Conducted comprehensive data exploration of transaction data, identifying multi-swipe, and reversed duplicate transactions. Handled missing values, applied categorical feature encoding, normalization, and addressed data imbalance through bootstrapped iterative undersampling. <br>
-   • Implemented hyperparameter tuning, utilizing GridSearchCV, and RandomizedSearchCV, across 5 ML models with iterative undersampling. Evaluated models based on Recall, AUC, F-Beta, and F1 Scores, out of this Gradient Boosting excelled with 0.91 F-Beta Score.
-
+   •	Conducted data exploration and preprocessing, managing multi-swipe, reversed duplicate transactions, missing values, feature encoding, normalization, feature selection, and data imbalance using bootstrapped iterative undersampling.<br>
+•	Implemented hyperparameter tuning with RandomizedSearchCV across 4 ML models, achieving a 0.91 F-Beta Score with Gradient Boosting. Utilized DVC for ML pipeline staging and deployed the solution using FastAPI with Docker on AWS for efficient API. 
 
 ## 3. [Face Matching Web Application with Bollywood Celebrities | VGG16, RESNET50, CNN](https://github.com/raj-maharajwala/Celebrities-Face-Matching-Web-Application)
    • Leveraged the VGG16, and RESNET50 Model Transfer Learning, to extract key facial attributes from images. Performed Data Augmentation includes resize, zoom, contrast in training set. Images were then sent to VGG Model, converted into a 2D array with 2048 attributes in a vector.<br>
