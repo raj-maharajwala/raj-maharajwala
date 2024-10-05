@@ -12,7 +12,7 @@
    <img width="484" alt="image" src="https://github.com/user-attachments/assets/cb1aa516-59bf-4fc8-abd2-af474a53d580">
    <img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="684">
 
-## 2. [Credit Card Fraud Detection | LR, Decision Trees, Random Forest, GBM, and XGBoost](https://github.com/raj-maharajwala/Credit-Card-Fraud-Detection)
+## 2. [Credit Card Fraud Detection | LR, Decision Trees, Random Forest, GBM, and XGBoost](https://github.com/raj-maharajwala/mlops-credit-card-fraud-detection-end-to-end)
    • Conducted comprehensive data exploration of transaction data, identifying multi-swipe, and reversed duplicate transactions. Handled missing values, applied categorical feature encoding, normalization, and addressed data imbalance through bootstrapped iterative undersampling. <br>
    • Implemented hyperparameter tuning, utilizing GridSearchCV, and RandomizedSearchCV, across 5 ML models with iterative undersampling. Evaluated models based on Recall, AUC, F-Beta, and F1 Scores, out of this Gradient Boosting excelled with 0.91 F-Beta Score.
 
