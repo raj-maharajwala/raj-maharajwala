@@ -16,8 +16,9 @@
    <!--<img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="684">-->
 
 ## 2. [Credit Card Fraud Detection | Decision Trees, Random Forest, GBM, XGBoost, DVC Pipeline, MLOPs](https://github.com/raj-maharajwala/mlops-credit-card-fraud-detection-end-to-end)
-<img src="https://github.com/user-attachments/assets/0b8d2663-ef94-42b7-9c9a-1f3ad6eb0bfd" alt="Challenge Image" width="400"/>
-   •	Conducted data exploration and preprocessing, managing multi-swipe, reversed duplicate transactions, missing values, feature encoding, normalization, feature selection, and data imbalance using bootstrapped iterative undersampling.<br>
+<img src="https://github.com/user-attachments/assets/0b8d2663-ef94-42b7-9c9a-1f3ad6eb0bfd" alt="Challenge Image" width="200"/>
+
+•	Conducted data exploration and preprocessing, managing multi-swipe, reversed duplicate transactions, missing values, feature encoding, normalization, feature selection, and data imbalance using bootstrapped iterative undersampling.<br>
 •	Implemented hyperparameter tuning with RandomizedSearchCV across 4 ML models, achieving a 0.91 F-Beta Score with Gradient Boosting. Utilized DVC for ML pipeline staging with Docker for efficient reproducibility. 
 
 ## 3. [Face Matching Web Application with Bollywood Celebrities | VGG16, RESNET50, CNN](https://github.com/raj-maharajwala/Celebrities-Face-Matching-Web-Application)
