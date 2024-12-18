@@ -7,14 +7,18 @@
 
 <!-- Pinned Repositories -->
 ## 1. [Insurance Chatbot | Fine-tuning Llama-3, GPT2, Llama2, Optimization](https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2)
-    
+🤗 [Open-Insurance-LLM-Llama-3-8B Model](https://huggingface.co/Raj-Maharajwala/Open-Insurance-LLM-Llama3-8B)<br>
+🤗 [Open-Insurance-LLM-Llama-3-8B-GGUF-Quantized-Model](https://huggingface.co/Raj-Maharajwala/Open-Insurance-LLM-Llama3-8B-GGUF)
+
+ <!--![Chatbot Demo 1](https://github.com/user-attachments/assets/cb1aa516-59bf-4fc8-abd2-af474a53d580)-->
    <a href="https://huggingface.co/Raj-Maharajwala/OpenInsuranceLLM-Llama3-8B-GGUF" target="_blank"><img width="200" alt="image" src="https://github.com/user-attachments/assets/88584c1d-a616-45dc-af4f-242a05ee3c0f"></a>
    <img width="484" alt="image" src="https://github.com/user-attachments/assets/cb1aa516-59bf-4fc8-abd2-af474a53d580">
    <!--<img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="684">-->
 
 ## 2. [Credit Card Fraud Detection | Decision Trees, Random Forest, GBM, XGBoost, DVC Pipeline, MLOPs](https://github.com/raj-maharajwala/mlops-credit-card-fraud-detection-end-to-end)
+<img src="https://github.com/user-attachments/assets/0b8d2663-ef94-42b7-9c9a-1f3ad6eb0bfd" alt="Challenge Image" width="400"/>
    •	Conducted data exploration and preprocessing, managing multi-swipe, reversed duplicate transactions, missing values, feature encoding, normalization, feature selection, and data imbalance using bootstrapped iterative undersampling.<br>
-•	Implemented hyperparameter tuning with RandomizedSearchCV across 4 ML models, achieving a 0.91 F-Beta Score with Gradient Boosting. Utilized DVC for ML pipeline staging and deployed the solution using FastAPI with Docker on AWS for efficient API. 
+•	Implemented hyperparameter tuning with RandomizedSearchCV across 4 ML models, achieving a 0.91 F-Beta Score with Gradient Boosting. Utilized DVC for ML pipeline staging with Docker for efficient reproducibility. 
 
 ## 3. [Face Matching Web Application with Bollywood Celebrities | VGG16, RESNET50, CNN](https://github.com/raj-maharajwala/Celebrities-Face-Matching-Web-Application)
    • Leveraged the VGG16, and RESNET50 Model Transfer Learning, to extract key facial attributes from images. Performed Data Augmentation includes resize, zoom, contrast in training set. Images were then sent to VGG Model, converted into a 2D array with 2048 attributes in a vector.<br>
