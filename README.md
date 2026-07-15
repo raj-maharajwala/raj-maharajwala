@@ -7,13 +7,19 @@
 
 <!-- Pinned Repositories -->
 
-## 1. [YouTube Trends Data Pipeline | AWS Step Functions, Glue, Lambda, S3, Athena, Medallion Architecture](https://github.com/raj-maharajwala/aws-youtube-data-pipeline)
+## 1. [Credit Card Fraud Detection | Decision Trees, Random Forest, GBM, XGBoost, DVC Pipeline, MLOPs](https://github.com/raj-maharajwala/mlops-credit-card-fraud-detection-end-to-end)
+<img src="https://github.com/user-attachments/assets/0b8d2663-ef94-42b7-9c9a-1f3ad6eb0bfd" alt="Challenge Image" width="200"/>
+
+•	Conducted data exploration and preprocessing, managing multi-swipe, reversed duplicate transactions, missing values, feature encoding, normalization, feature selection, and data imbalance using bootstrapped iterative undersampling.<br>
+•	Implemented hyperparameter tuning with RandomizedSearchCV across 4 ML models, achieving a 0.91 F-Beta Score with Gradient Boosting. Utilized DVC for ML pipeline staging with Docker for efficient reproducibility. 
+
+## 2. [YouTube Trends Data Pipeline | AWS Step Functions, Glue, Lambda, S3, Athena, Medallion Architecture](https://github.com/raj-maharajwala/aws-youtube-data-pipeline)
 <img src="https://github.com/raj-maharajwala/aws-youtube-data-pipeline/blob/master/YouTube%20Trending%20Data%20Pipeline.png" alt="YouTube Trends Data Pipeline" width="650">
 
 •	Built a cloud-native ETL pipeline ingesting YouTube trending video data across 10 regions via YouTube Data API v3, transformed through a medallion architecture (Bronze → Silver → Gold) with automated data quality gates.<br>
 •	Orchestrated end-to-end workflow using AWS Step Functions (Lambda, Glue/PySpark, S3, Athena, EventBridge, SNS), producing trending, channel, and category analytics tables queryable via Athena/QuickSight.
 
-## 2. [Insurance Chatbot | Fine-tuning Llama-3, GPT2, Llama2, Optimization](https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2)
+## 3. [Insurance Chatbot | Fine-tuning Llama-3, GPT2, Llama2, Optimization](https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2)
 🤗 [Open-Insurance-LLM-Llama-3-8B Model](https://huggingface.co/Raj-Maharajwala/Open-Insurance-LLM-Llama3-8B)<br>
 🤗 [Open-Insurance-LLM-Llama-3-8B-GGUF-Quantized-Model](https://huggingface.co/Raj-Maharajwala/Open-Insurance-LLM-Llama3-8B-GGUF)
 
@@ -21,12 +27,6 @@
    <a href="https://huggingface.co/Raj-Maharajwala/OpenInsuranceLLM-Llama3-8B-GGUF" target="_blank"><img width="170" alt="image" src="https://github.com/user-attachments/assets/88584c1d-a616-45dc-af4f-242a05ee3c0f"></a>
    <img width="650" alt="image" src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama3/blob/main/ai_agent_chatbot.png">
    <!--<img src="https://github.com/raj-maharajwala/Insurance-Chatbot-Fine-tuning-GPT2-Llama2/blob/main/video/InsuranceGPT_big.gif" alt="Repository 1" width="684">-->
-
-## 3. [Credit Card Fraud Detection | Decision Trees, Random Forest, GBM, XGBoost, DVC Pipeline, MLOPs](https://github.com/raj-maharajwala/mlops-credit-card-fraud-detection-end-to-end)
-<img src="https://github.com/user-attachments/assets/0b8d2663-ef94-42b7-9c9a-1f3ad6eb0bfd" alt="Challenge Image" width="200"/>
-
-•	Conducted data exploration and preprocessing, managing multi-swipe, reversed duplicate transactions, missing values, feature encoding, normalization, feature selection, and data imbalance using bootstrapped iterative undersampling.<br>
-•	Implemented hyperparameter tuning with RandomizedSearchCV across 4 ML models, achieving a 0.91 F-Beta Score with Gradient Boosting. Utilized DVC for ML pipeline staging with Docker for efficient reproducibility. 
 
 ## 4. [Face Matching Web Application with Bollywood Celebrities | VGG16, RESNET50, CNN](https://github.com/raj-maharajwala/Celebrities-Face-Matching-Web-Application)
    • Leveraged the VGG16, and RESNET50 Model Transfer Learning, to extract key facial attributes from images. Performed Data Augmentation includes resize, zoom, contrast in training set. Images were then sent to VGG Model, converted into a 2D array with 2048 attributes in a vector.<br>
